@@ -9,7 +9,7 @@ import { Task } from 'src/app/Task';
 export class AddTaskComponent implements OnInit {
   @Output() onAddTask: EventEmitter<Task> = new EventEmitter();
   text: string;
-  day: string;
+  day: string;tasks
   reminder: boolean = false;
 
   constructor() { }
