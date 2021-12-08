@@ -1,22 +1,10 @@
 {
   "tasks": [
     {
-      "text": "asdfsdfasdfsdfsdfsfsdf",
-      "day": "12323123",
+      "text": "brush teeth",
+      "day": "Today",
       "reminder": true,
-      "id": 7
-    },
-    {
-      "text": "what did you say ",
-      "day": "may",
-      "reminder": false,
-      "id": 8
-    },
-    {
-      "text": "asdfsdf",
-      "day": "asdfsdf",
-      "reminder": true,
-      "id": 9
+      "id": 1
     }
   ]
 }
